@@ -2,13 +2,13 @@
 
 **Versão:** v1.0  
 **Data:** 30/09/2026  
-**Autor:** NomeDaEquipe  
+**Equipe:** RLC Software
 
 ## Histórico de alterações
 
-| Versão | Data | Autor | Alteração |
+| Versão | Data | Equipe | Alteração |
 |---|---|---|---|
-| v1.0 | 30/09/2026 | NomeDaEquipe | Criação dos casos de teste dos fluxos essenciais, alternativos e de erro. |
+| v1.0 | 30/09/2026 | RLC Software | Criação dos casos de teste dos fluxos essenciais, alternativos e de erro. |
 
 ## CT-01 — Escolher lanche com sucesso
 

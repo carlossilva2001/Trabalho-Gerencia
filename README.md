@@ -2,13 +2,13 @@
 
 **Versão:** v1.0  
 **Data:** 30/09/2026  
-**Autor:** NomeDaEquipe  
+**Equipe:** RLC Software
 
 ## Histórico de alterações
 
-| Versão | Data | Autor | Alteração |
+| Versão | Data | Equipe | Alteração |
 |---|---|---|---|
-| v1.0 | 30/09/2026 | NomeDaEquipe | Criação da Baseline v1.0 com requisitos, wireframes, testes e matriz de rastreabilidade. |
+| v1.0 | 30/09/2026 | RLC Software | Criação da Baseline v1.0 com requisitos, wireframes, testes e matriz de rastreabilidade. |
 
 ## Objetivo
 
@@ -35,15 +35,11 @@ O sufixo numérico é mantido entre os artefatos relacionados sempre que houver 
 - O commit da entrega inicial usa a mensagem `Baseline v1.0`.
 - A tag `v1.0` identifica o estado aprovado da Baseline v1.0.
 
-## Integrantes
+## Equipe responsável
 
-| Responsável | Papel |
+| Equipe | Responsabilidade |
 |---|---|
-| Integrante 1 | Responsável |
-| Integrante 2 | Responsável |
-| Integrante 3 | Responsável |
-| Integrante 4 | Responsável |
-| Integrante 5 | Responsável |
+| RLC Software | Levantamento de requisitos, elaboração dos wireframes, definição dos testes e organização da matriz de rastreabilidade. |
 
 ## Suposições
 

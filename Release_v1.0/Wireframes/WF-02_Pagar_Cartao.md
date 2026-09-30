@@ -2,13 +2,13 @@
 
 **Versão:** v1.0  
 **Data:** 30/09/2026  
-**Autor:** NomeDaEquipe  
+**Equipe:** RLC Software
 
 ## Histórico de alterações
 
-| Versão | Data | Autor | Alteração |
+| Versão | Data | Equipe | Alteração |
 |---|---|---|---|
-| v1.0 | 30/09/2026 | NomeDaEquipe | Criação do wireframe de pagamento por cartão. |
+| v1.0 | 30/09/2026 | RLC Software | Criação do wireframe de pagamento por cartão. |
 
 **Requisito relacionado:** US-02
 
@@ -23,10 +23,10 @@
 |                                                |
 | Escolha a modalidade                            |
 |                                                |
-|       ( ) CARTAO DE CREDITO                    |
-|       ( ) CARTAO DE DEBITO                     |
+|       ( ) CARTÃO DE CRÉDITO                    |
+|       ( ) CARTÃO DE DÉBITO                     |
 |                                                |
-| Insira ou aproxime o cartao                    |
+| Insira ou aproxime o cartão                    |
 |                                                |
 | Status: aguardando pagamento                    |
 |                                                |

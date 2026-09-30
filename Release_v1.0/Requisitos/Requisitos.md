@@ -2,13 +2,13 @@
 
 **Versão:** v1.0  
 **Data:** 30/09/2026  
-**Autor:** NomeDaEquipe  
+**Equipe:** RLC Software
 
 ## Histórico de alterações
 
-| Versão | Data | Autor | Alteração |
+| Versão | Data | Equipe | Alteração |
 |---|---|---|---|
-| v1.0 | 30/09/2026 | NomeDaEquipe | Criação das três user stories essenciais e seus critérios de aceite. |
+| v1.0 | 30/09/2026 | RLC Software | Criação das três user stories essenciais e seus critérios de aceite. |
 
 ## US-01 — Escolher lanche
 
