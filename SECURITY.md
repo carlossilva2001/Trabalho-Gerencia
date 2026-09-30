@@ -1,21 +1,19 @@
-# Security Policy
+# Política de Segurança
 
-## Supported Versions
+## Versões Suportadas
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Este é um projeto acadêmico de Gerência de Configuração (sem código-fonte). As versões abaixo indicam quais baselines de documentação são mantidas.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Versão | Suportada          | Observação                          |
+| ------ | ------------------ | ----------------------------------- |
+| v2.0   | :hourglass:        | Em desenvolvimento (entrega futura) |
+| v1.0   | :white_check_mark: | Baseline inicial        |
 
-## Reporting a Vulnerability
+## Reportando um Problema
 
-Use this section to tell people how to report a vulnerability.
+Se você identificar um erro, inconsistência ou informação sensível nos documentos (por exemplo, dados pessoais de integrantes expostos indevidamente):
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+1. Abra uma *Issue* neste repositório descrevendo o problema, ou
+2. Entre em contato com a equipe pelo e-mail: `carlossilva.2001@alunos.utfpr.edu.br`.
+
+**Prazos esperados:** a equipe responde em até 7 dias. Se o problema for aceito, será registrado como solicitação de mudança e corrigido em uma nova versão (sem sobrescrever a baseline anterior). Se for recusado, a justificativa será informada na própria Issue.
